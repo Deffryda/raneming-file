@@ -12,3 +12,4 @@ Name file (example - img)    !Pay attention do not enter a file type (for exampl
 3. How to write file type ?
 File type -      
 File type (example - jpg)
+
