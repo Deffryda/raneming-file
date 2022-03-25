@@ -13,10 +13,11 @@ Name file (example - img)    !Pay attention do not enter a file type (for exampl
 File type -      
 File type (example - jpg)
 
-Install in Termux
-
-# apt update && apt upgrade
-# git clone https://github.com/Deffryda/raneming-file.git
-# ls
-# cd raneming-file
-# python Rename_File.py
+# Install in Termux
+```
+apt update && apt upgrade
+git clone https://github.com/Deffryda/raneming-file.git
+ls
+cd raneming-file
+python Rename_File.py
+```
