@@ -19,5 +19,5 @@ apt update && apt upgrade
 git clone https://github.com/Deffryda/raneming-file.git
 ls
 cd raneming-file
-python Rename_File.py
+python rename_file.py
 ```
