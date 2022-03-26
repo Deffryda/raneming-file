@@ -19,11 +19,4 @@ Number of files -
 Number of files (example image1)     
 !Pay attention do not enter only from one (for example - img1)!
 
-# Install in Termux
-```
-apt update && apt upgrade
-git clone https://github.com/Deffryda/raneming-file.git
-ls
-cd raneming-file
-python rename_file.py
-```
+
