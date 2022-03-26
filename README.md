@@ -12,7 +12,6 @@ Name file (example - img)    !Pay attention do not enter a file type (for exampl
 3. How to write file type ?
 File type -      
 File type (example - jpg)
-
 4.How to write number of files ?
 Number of files - 
 Number of files (example image1)      !Pay attention do not enter only from one (for example - img1)!
