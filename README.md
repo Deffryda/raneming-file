@@ -13,6 +13,10 @@ Name file (example - img)    !Pay attention do not enter a file type (for exampl
 File type -      
 File type (example - jpg)
 
+4.How to write number of files ?
+Number of files - 
+Number of files (example image1)  !Pay attention do not enter only from one (for example - img1)!
+
 # Install in Termux
 ```
 apt update && apt upgrade
