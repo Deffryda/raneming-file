@@ -1,4 +1,4 @@
-# raneming-file
+# renaming-file
 Quickly and easily rename files :)
 
 1. How to set the file path ?
