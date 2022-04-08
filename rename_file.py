@@ -1,4 +1,11 @@
 import os
+import time
+
+list_load = ['10%', '50%', '90%']
+def loading():
+    for j in range(3):
+        print("Loading " + list_load[j])
+        time.sleep(1)
 
 def rename_files():
     path = input("File path - ")  # File path (example - C:\Users\Admin\Desktop)
@@ -23,10 +30,12 @@ def rename_files():
                               r"{}\{}.{}".format(path, str(i), formatn))  # Rename
         except:
             print("Error 0_o")  # Error
+    loading()
 
 
 def main():
     rename_files()
+    print("Program complete - 100% ")
     print(10 * '-' + "by Quanta / Deffryda" + 10 * '-')
     print("https://github.com/Deffryda")
 
